@@ -32,5 +32,7 @@ ___
 #### In case you want to expose your server to the internet *(do it at your own risk)*:
 Simplest way to do it is to expose the port the server is running on from your router's port forwarding settings, then add an A record pointing to your public IPAddress:port .
 I'm not sure if NginX or other reverse proxies/ API gateways are available just check them out yourself if want to do it that way.
+___
 
+![enter image description here](https://iili.io/Hax8b0x.jpg)
     
